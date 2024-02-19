@@ -1,0 +1,118 @@
+title: The Future Co.
+description: Harness the power of innovation with The Future Co.'s cutting-edge tools and technologies. Our platform is designed to empower creators and thinkers to build a sustainable and innovative future.
+hero:
+  title: Building the future together...
+  description: Embark on a transformative journey with us. Let's innovate, create, and lead the way to a brighter tomorrow.
+  headline:
+    label: The future starts now
+    to: https://thefutureco.com/start
+    icon: i-heroicons-arrow-top-right-on-square-20-solid
+  links:
+    - label: Get started
+      icon: i-heroicons-arrow-right-20-solid
+      trailing: true
+      to: '#features'
+      size: xl
+    - label: Explore our projects
+      icon: i-simple-icons-github
+      size: xl
+      color: gray
+      to: https://github.com/thefutureco/projects
+      target: _blank
+logos:
+  title: Partnering with global innovators
+  icons:
+    - i-simple-icons-google
+    - i-simple-icons-microsoft
+    - i-simple-icons-ibm
+    - i-simple-icons-intel
+    - i-simple-icons-nasa
+features:
+  headline: Our Innovations
+  title: Empower your future with us
+  description: From renewable energy solutions to AI-driven technologies, our features are designed to address today's challenges while paving the way for a sustainable future.
+  items:
+    - title: Renewable Energy Solutions
+      description: Harnessing the power of nature to provide clean, sustainable energy for all.
+      icon: i-heroicons-lightning-bolt
+    - title: AI & Machine Learning
+      description: Driving innovation with AI to solve complex problems and improve efficiency.
+      icon: i-heroicons-device-tablet
+    - title: Sustainable Development
+      description: Promoting sustainable practices and technologies for a healthier planet.
+      icon: i-heroicons-globe-alt
+    - title: Advanced Robotics
+      description: Utilizing robotics to enhance productivity and revolutionize industries.
+      icon: i-heroicons-adjustments
+    - title: Education & Training
+      description: Equipping individuals with the skills needed for the jobs of tomorrow.
+      icon: i-heroicons-academic-cap
+    - title: Community Engagement
+      description: Building a future together with community-driven projects and initiatives.
+      icon: i-heroicons-users
+pricing:
+  headline: Choose Your Path
+  title: Flexible plans for visionaries of all sizes
+  description: Whether you're a startup or a global enterprise, our plans are tailored to fit your journey towards innovation.
+  plans:
+    - title: Innovator
+      description: Perfect for individuals and small teams starting their journey.
+      price: $29/month
+      align: top
+      button:
+        label: Begin Now
+        color: gray
+      features:
+        - Access to Innovation Hub
+        - 5 Project Slots
+        - Community Support
+        - Monthly Workshops
+        - Sustainable Tech Resources
+    - title: Visionary
+      description: For teams ready to accelerate their impact.
+      price: $79/month
+      highlight: true
+      scale: true
+      align: top
+      button:
+        label: Accelerate
+      features:
+        - Everything in Innovator
+        - 20 Project Slots
+        - Priority Support
+        - Bi-weekly Innovation Sessions
+        - Early Access to New Features
+    - title: Pioneer
+      description: The ultimate package for leaders shaping the future.
+      price: $199/month
+      align: top
+      button:
+        label: Lead
+        color: gray
+      features:
+        - Unlimited Project Slots
+        - Dedicated Advisor
+        - Custom Innovation Workshops
+        - Access to Exclusive Events
+        - Impact Assessment Tools
+testimonials:
+  headline: Voices of the Future
+  title: Our community speaks
+  description: From visionary startups to global enterprises, our partners share their journeys towards building a sustainable future.
+  items:
+    - quote: "The Future Co. has been instrumental in our journey towards sustainability. Their innovative solutions and community support have accelerated our projects."
+      author:
+        name: Alex Johnson
+        description: Founder at EcoInnovate
+        avatar:
+          src: https://i.pravatar.cc/120?img=10
+          loading: lazy
+    - quote: "With The Future Co., we've harnessed AI in ways we never thought possible. Their platform is a game-changer for future-focused businesses."
+      author:
+        name: Priya Singh
+        description: CTO at TechForward
+        avatar:
+          src: https://i.pravatar.cc/120?img=22
+          loading: lazy
+    - quote: "Their commitment to community and sustainable development has not only inspired us but also provided a clear path to making a real impact."
+      author:
